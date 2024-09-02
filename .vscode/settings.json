@@ -1,0 +1,19 @@
+{
+  "editor.overviewRulerBorder": false,
+  "editor.rulers": [],
+  "dart.lineLength": 1000,
+  "editor.formatOnSave": true,
+  "source.organizeImports": true,
+  "cmake.configureOnOpen": true,
+  "[dart]": {
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": false,
+    "editor.suggest.insertMode": "replace",
+    "editor.defaultFormatter": "Dart-Code.dart-code",
+    "editor.inlayHints.enabled": "offUnlessPressed",
+    "editor.formatOnSave": true,
+    "source.organizeImports": true,
+    
+  },
+}
